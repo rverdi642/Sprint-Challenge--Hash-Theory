@@ -43,7 +43,7 @@ A     B     result       A     B     result
 -------------------      -------------------  
                
 0     0       ?          0     0       False
-0     1       ?    ===>  0     0       False
+0     1       ?    ===>  0     1       False
 1     0       ?          1     0       True
 1     1       ?          1     1       False
 ```

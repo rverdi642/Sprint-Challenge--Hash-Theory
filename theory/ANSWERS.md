@@ -71,6 +71,15 @@ A     B     C     result
 1     0     1       ?
 1     1     0       ?
 1     1     1       ?
+
+
+0     0     0       TRue
+0     0     1       TRue
+0     1     0       TRue
+0     1     1       TRue
+1     0     1       TRue
+1     1     0       False
+1     1     1       False
 ```
 
 ## STRETCH GOAL
